@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100;
+    margin: 0;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+.container {
+    text-align: center;
+    border: 1px#f9f5f5;
+    padding: 20px;
+    width: 90%;
+}
+.title {
+  font-size: 5em;
+  color: #c52d2d;
+}
+.description {
+  font-size: 3.2em;
+  color: #6c3f3f;
+  margin-bottom: 20px;
+}
